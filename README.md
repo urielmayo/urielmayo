@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @urielmayo
-- 👀 I’m interested in software engineering, computer science and backend development using
+- 👀 I’m interested in software engineering, computer science and backend development using python and django
 - 🌱 I’m currently learning Python, mySql and Django
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
